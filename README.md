@@ -15,6 +15,12 @@ Detailed match events (goal types, possession, corner, cross, fouls, cards etcâ€
 4- The teamm that has progressed the most and regressed the most
 5 -The teams that have gone up to the first league  and gone down to the lower league
 
+on the exploratory part, we found that the most effective team in attack for all the seasons was Manchester City
+The team who concedes the most goal was Blackpool,
+The team who was the most effective in defense was Manchester united
+The team that has progressed the most was Leicester City and the team that regressed the most was Birmingham City
+
+
 ## Key Insights for Presentation
 
 The main thread from this exploration is based on analysis of the relationship between each team, the win, lost and game tie at home and away for each team
